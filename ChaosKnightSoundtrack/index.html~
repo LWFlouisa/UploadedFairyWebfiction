@@ -1,0 +1,252 @@
+<p><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow, nosnippet, noarchive, noimageindex">
+
+  <title>Chaos Knight Concept Soundtrack</title>
+  <link href="stylesheet.css" rel="stylesheet" />
+
+<style>
+
+  body {
+    background-color: #202620;
+  }
+
+  h1, h2, h3, h4, h5, h6, p, pre, img {
+    color: #C2E5BE;
+    font-family: monospace;
+    font-size: 16px;
+    font-weight: oblique;
+
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    border: solid #C2E5BE 3px;
+  }
+
+  img {
+    text-align: center;
+  }
+
+  ul, li {
+    padding-bottom: 10px;
+  }
+
+  a {
+    color: blue;
+    font-family: ubuntu;
+    font-size: 16px;
+
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+div#leanpub-toc {
+  width: 300px;
+  float: left;
+}
+
+div#leanpub-main {
+  width: 700px;
+  float: left;
+}
+
+// Book ToC
+// ----------------------
+
+.toc {
+  list-style: none;
+}
+.toc li {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+.toc.has-parts li {
+  margin-left: 10px;
+}
+
+.toc.has-parts li.part {
+  margin-left: 0px;
+}
+.toc li.part {
+  font-size: 1.2em;
+}
+.toc li.chapter {
+  padding-left: 0px;
+}
+.toc li.section {
+  padding-left: 10px;
+  font-size: 0.8em;
+}
+.toc li.sub-section {
+  padding-left: 20px;
+  font-size: 0.7em;
+}
+.toc li.sub-sub-section {
+  padding-left: 30px;
+  font-size: 0.6em;
+}
+</style>
+
+</head>
+<body dir="" class="kramdown"></p>
+
+<div id="leanpub-toc">
+<h2>Table of Contents</h2>
+<ol class="toc">
+<ul class='toc no-parts'>
+  <h3>Prototype Music For Chaos Knight: a Survival Horror visual novel and tactical rpg.</h3>
+  <li>
+    <a href='gameconcept'>GAME CONCEPT</a>
+  </li>
+  <li>
+    <a href='#loupgarou'>Loup-Garou Vs The Onuki-Inu: Rivals Of Warring Hunts</a>
+  </li>
+  <li>
+    <a href='#humanexperiments'>Human Experiments At Midnight</a>
+  </li>
+  <li>
+    <a href='#daesirae'>Les "Daes Irai" En Iwato Bb</a>
+  </li>
+  <li>
+    <a href='#songofbrokeninnocense'>Song Of Broken Innocense</a>
+  </li>
+  <li>
+    <a href='#flamencoofanticipation'>Flamenco Of Anticipation</a>
+  </li>
+  <li>
+    <a href='#thewolfoftwonations'>The Wolf Of Two Nations</a>
+  </li>
+  <li>
+    <a href='#dreamlikeabyss'>Dreamlike Abyss</a>
+  </li>
+  <li>
+    <a href='#wakingupfromtheabyss'>Waking Up From The Abyss</a>
+  </li>
+  <li>
+    <a href='#songofrestoredinnocense'>Song Of Restored Innocense</a>
+  </li>
+</ul>
+
+</ol>
+</div>
+
+<div id="leanpub-main" class="kramdown">
+
+<h2 id="gameconcept">GAME CONCEPT</h3>
+
+<h4>PREMISE</h4>
+<p>A man born as a half-breed between a Loup-Garou and an Okuri-Inu, might battle between his darker nature and his desire to guide the dead. Here he comes to grips between the cultural differences between French-America and Japanese-America, as two sides compete over a great hunt against mankind. But when he falls in love with a woman that speaks a Rocky Mountain creole that blends Japanese and French, his loyality is split between the human's welfare and those who haunt the night. Also in his way are human experiments from an extension of Unit 731, merging with MKUltra. With human experimentations that want them dead.</p>
+
+<h4>GAMEPLAY</h4>
+<p>The game straddles the line between tactical JRPG and survival horror, with limited supplies gradually increasing the difficulty. Damage from enemies reduces as the werewolf curse slowly takes its course, but with cost being that one slowly loses the ability to control the character. There is a timer that must run out before the player is able to regain control. Different types of enemeies increase this bezerker mode by varying amounts. The game allows you to level up the weapons designed to be used as such, such as axes and swords for decapitations, flashlights for lighting up rooms and caves. You can use make weapons from things lying on the ground. Weapons are only usable as the bezerker mode slowly increases, with human form being an every man that can only hide or block pathways. With the assumption that the MCs wear French Sabots or Japanese Geta, these are examples of makeshift weapons, with various opprotunities to buy new wooden shoes / sandals.</p>
+
+<p>Dungeons are generated not be randomness, but rather adapting the user's play style. For example, if it detects that your gravitating to certain areas that have only one entrance / exit, and using furniture to block the pathway to build a fort, it can adjust its strategy by varying the level of intelligence the enemy has, with smarter enemies relyong on social engineering, and this where Visual Novel gameplay elements are introduced. These paths depend on your understanding of the French and Japanese languages, as you'll meet characters over time with varying abilities to communicate in American English.</p>
+
+<p>Here there a branching narrative that depends on what choices you make in choose your own adventure mode, and what degree of Bezerker mode you end on. The ending mainly focuses on the final fate or outcome of your gilrfriend that you're helping guide on the adventure. The worst ending with your girlfriend captured by each military and experimented on, and a secret ending ( the best one ) the MC survives the end and goes on to father Half-Japanese and half-french children. And set up possibility for a continuation. The medium ending, the girlfriend, after the MC is defeated in bezerker mode, is charged with aiding the enemy ( whether France or Japan depending on what region of the US you're in ) guillotined on either the German or French models.</p>
+
+<h4>AMBIANCE</h4>
+<p>Sounds effects blend elements from Gothic Fiction and Japanese mythology, with a focus on the faintest noise breaking the silence. This is where Iwato mode would be frequently used to set the tone.</p>
+
+<h4>MUSIC</h4>
+<p>Music is inspired by a mixture of Gothic Rock and Japanese Progressive Rock, with complex arrangements used to contrast haunting melodies and chord progressions.</p>
+
+<h4>THINGS DISCOVERED OVER TIME</h4>
+<p>A secret program blending the horrors of Unit 731 and MKUltra would likely involve a combination of biological warfare research and psychological manipulation. Unit  731, known for its biological warfare experiments during World War II, would contribute to the development of potentially lethal biological agents [1]. Meanwhile, MKUltra's focus on mind control, including the use of drugs like LSD and other substances to manipulate human behavior and extract information, would provide a framework for psychological manipulation and interrogation tactics [3]. Such a program would likely be characterized by:</p>
+
+<p>- The use of covert operations and front organizations to hide the true nature of the experiments.</p>
+<p>- A broad range of institutional involvement, including military, academic, and medical institutions.</p>
+<p>- Experimentation on vulnerable populations, often without their knowledge or consent.</p>
+<p>- An emphasis on secrecy and deniability, with records and evidence systematically destroyed or suppressed.</p>
+<p>- The potential for long-term harm to subjects, both physical and psychological.</p>
+
+<h2 id="loupgarou">Loup-Garou Vs The Onuki-Inu: Rivals Of Warring Hunts</h3>
+
+<p>Prototype ambient theme song for Chaos Knight.<p>
+
+ <audio controls>
+  <source src="https://nqi4ym-ip-23-251-71-90.tunnelmole.net/ChaosKnightSoundtrack/music/LoupGarouVsTheOnuki-InuTheRivalsOfTheGreatHunt.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<h2 id="humanexperiments">Human Experimentation At Midnight</h3>
+
+<p>Prototype ambient for sections of the game in the military prisons.<p>
+
+ <audio controls>
+  <source src="https://nqi4ym-ip-23-251-71-90.tunnelmole.net/ChaosKnightSoundtrack/music/HumanExperimentationAtMidnight.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<h2 id="daesirae">Les "Daes Irai" En Iwato Bb</h3>
+
+<p>Le hymn de Catholique avec mode de Japanais Iwato en Bb.<p>
+
+ <audio controls>
+  <source src="https://nqi4ym-ip-23-251-71-90.tunnelmole.net/ChaosKnightSoundtrack/music/DaeIraeWithIwatoBb.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<h2 id="songofbrokeninnocense">Song Of Broken Innocense</h3>
+
+<p>Song intended for the girl who speaks the Rocky Mountain dialecto of French and Japanese.<p>
+
+ <audio controls>
+  <source src="https://nqi4ym-ip-23-251-71-90.tunnelmole.net/ChaosKnightSoundtrack/music/SongOfBrokenInnocense.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<h2 id="flamencoofanticipation">Flamenco Of Anticipation</h3>
+
+<p>Boss theme music for fighting various entities that the half Onuki-Inu must faces while guiding the angel in the darkness.<p>
+
+ <audio controls>
+  <source src="https://nqi4ym-ip-23-251-71-90.tunnelmole.net/ChaosKnightSoundtrack/music/FlamencoOfAnticipation.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<h2 id="thewolfoftwonations">The Wolf Of Two Nations</h3>
+
+<p>The song that represents the half garou's inner conflict between loyality to the French region of the US, and its love for Japanese culture. The wolf of two nations.<p>
+
+ <audio controls>
+  <source src="https://nqi4ym-ip-23-251-71-90.tunnelmole.net/ChaosKnightSoundtrack/music/TheWolfOfTwoNations.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<h2 id="dreamlikeabyss">Dreamlike Abyss</h3>
+
+<p>A melody for sequences that blur the line between reality and dream.<p>
+
+ <audio controls>
+  <source src="https://nqi4ym-ip-23-251-71-90.tunnelmole.net/ChaosKnightSoundtrack/music/DreamlikeAbyss.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<h2 id="wakingupfromtheabyss">Waking Up From The Abyss</h3>
+
+<p>A melody for waking up from the abyss.<p>
+
+ <audio controls>
+  <source src="https://nqi4ym-ip-23-251-71-90.tunnelmole.net/ChaosKnightSoundtrack/music/WakingUpFromTheAbyss.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<h2 id="songofrestoredinnocense">Song Of Restored Innocense</h3>
+
+<p>The song of returning to one's childhood forest.<p>
+
+ <audio controls>
+  <source src="https://nqi4ym-ip-23-251-71-90.tunnelmole.net/ChaosKnightSoundtrack/music/SongOfRestoredInnocense.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+</div>
+
+</body>
+</html>
+
